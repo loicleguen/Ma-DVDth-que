@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "b9e11dd2b1af80d311f2fb0f381a5ddc" 
+API_KEY = "21baa9e0bfed5e90ceac24cb1a8c2fd8" 
 BASE_URL = "https://api.themoviedb.org/3"
 IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
 
